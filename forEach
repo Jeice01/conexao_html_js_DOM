@@ -1,6 +1,3 @@
-
-
-```
 O `forEach` é uma função de array em JavaScript que permite percorrer os elementos de um array e executar uma função para cada elemento.
 
 Aqui está como funciona:
