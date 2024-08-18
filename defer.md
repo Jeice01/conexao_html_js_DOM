@@ -1,9 +1,9 @@
 
-```
+
 ```html
 <script src="script.js" defer></script><!--Conexão com o arquivo script.js-->
 ```
-```
+
 
 1. `<script>`: Esta é uma tag HTML usada para incluir código JavaScript em uma página web. O código JavaScript é geralmente colocado entre as tags de abertura `<script>` e fechamento `</script>`.
 
